@@ -212,8 +212,8 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง / ปลูกสร้างบ้านบนที่ดินตนเอง</div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท; เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง<br>หรือปลูกสร้างบ้านบนที่ดินตนเอง</div>
+    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
@@ -246,8 +246,8 @@
 
   <!-- Option 3 -->
   <div class="card">
-    <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง สำหรับลูกค้าที่มีเงินดาวน์แล้ว </div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ & เจ้าของกิจการ รายได้ > 50,000 บาท (สามารถรวมรายได้มากกว่า 1 ท่าน)</p>
+    <div class="card-header">ซื้อบ้านมือหนึ่งและมือสอง<br>สำหรับลูกค้าที่มีเงินดาวน์แล้ว </div>
+    <p style="font-size: 0.9rem;">พนักงานประจำ & เจ้าของกิจการ รายได้ > 50,000 บาท<br>(สามารถรวมรายได้มากกว่า 1 ท่าน)</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
