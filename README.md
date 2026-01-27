@@ -58,7 +58,6 @@
 
     header p {
       font-size: 1rem;
-      padding: 20px;
       opacity: 0.9;
     }
 
