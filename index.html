@@ -232,6 +232,49 @@
 
   <!-- Option 1 -->
   <div class="card">
+    <div class="card-header">ซื้อบ้านใหม่ หรือบ้านมือสอง <span class="badge">ยอดฮิต</span></div>
+    <p style="font-size: 0.9rem; ">
+      <ul style="margin-left: 40px;">
+      <li>พนักงานประจำ รายได้ > 50,000 บาท</li>
+      <li>เจ้าของกิจการ รายได้ > 50,000 บาท</li>
+      </ul>
+    </p>
+    <div class="benefit-grid">
+      <div class="benefit-item">
+        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
+        <div class="benefit-value">2.99% - 3.79% ต่อปี</div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-label">วงเงินกู้สูงสุด</div>
+        <div class="benefit-value">70% - 90%<br>ของราคาประเมิน</div>
+      </div>
+    </div>
+    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+  </div>
+
+  <!-- Option 2 -->
+  <div class="card">
+    <div class="card-header">ซื้อบ้านใหม่ หรือบ้านมือสอง <span class="badge">มาแรง!</span></div>
+    <p style="font-size: 0.9rem; ">
+      <ul style="margin-left: 40px;">
+      <li>พนักงานประจำ เท่านั้น! รายได้ > 30,000 บาท</li>
+      </ul>
+    </p>
+    <div class="benefit-grid">
+      <div class="benefit-item">
+        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
+        <div class="benefit-value">3.29% - 3.79% ต่อปี</div>
+      </div>
+      <div class="benefit-item">
+        <div class="benefit-label">วงเงินกู้สูงสุด</div>
+        <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
+      </div>
+    </div>
+    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+  </div>
+
+  <!-- Option 3 -->
+  <div class="card">
     <div class="card-header">ซื้อบ้านใหม่ / บ้านมือสอง<br>หรือซื้ออาคารพาณิชย์ </div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
@@ -246,51 +289,7 @@
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">70% - 110%<br>ของราคาประเมิน</div>
-      </div>
-    </div>
-    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%881-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
-  </div>
-
-  <!-- Option 2 -->
-  <div class="card">
-    <div class="card-header">ซื้อบ้านใหม่ หรือบ้านมือสอง <span class="badge">ยอดฮิต</span></div>
-    <p style="font-size: 0.9rem; ">
-      <ul style="margin-left: 40px;">
-      <li>พนักงานประจำ รายได้ > 30,000 หรือ > 50,000 บาท</li>
-      <li>เจ้าของกิจการ รายได้ > 50,000 บาท ขึ้นไป</li>
-      </ul>
-    </p>
-    <div class="benefit-grid">
-      <div class="benefit-item">
-        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
-        <div class="benefit-value">2.99% - 3.79% ต่อปี</div>
-      </div>
-      <div class="benefit-item">
-        <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
-      </div>
-    </div>
-    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%882-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
-  </div>
-
-  <!-- Option 3 -->
-  <div class="card">
-    <div class="card-header">ซื้ออาคารพาณิชย์ <span class="badge">ยอดฮิต</span></div>
-    <p style="font-size: 0.9rem; ">
-      <ul style="margin-left: 40px;">
-      <li>พนักงานประจำ รายได้ > 15,000 บาท</li>
-      <li>เจ้าของกิจการ รายได้ > 30,000 บาท</li>
-      </ul>
-    </p>
-    <div class="benefit-grid">
-      <div class="benefit-item">
-        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
-        <div class="benefit-value">4.79% - 4.999% ต่อปี</div>
-      </div>
-      <div class="benefit-item">
-        <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">สูงสุดไม่เกิน 80%<br>ของราคาประเมิน</div>
+        <div class="benefit-value">70% - 100%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%881-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
