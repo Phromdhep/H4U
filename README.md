@@ -235,13 +235,14 @@
     <div class="card-header">ซื้อบ้านใหม่ หรือบ้านมือสอง <span class="badge">ยอดฮิต</span></div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
-      <li>พนักงานประจำ รายได้ > 50,000 บาท</li>
-      <li>เจ้าของกิจการ รายได้ > 50,000 บาท</li>
+      <li>พนักงานประจำ และเจ้าของกิจการ</li>
+      <li>รายได้ > 50,000 บาท ขึ้นไป</li>
+      <li>สามารถรวมรายได้กับผู้กู้ร่วมได้</li>
       </ul>
     </p>
     <div class="benefit-grid">
       <div class="benefit-item">
-        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
+        <div class="benefit-label">อัตราดอกเบี้ย</div>
         <div class="benefit-value">2.99% - 3.79% ต่อปี</div>
       </div>
       <div class="benefit-item">
@@ -257,12 +258,13 @@
     <div class="card-header">ซื้อบ้านใหม่ หรือบ้านมือสอง <span class="badge">มาแรง!</span></div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
-      <li>พนักงานประจำ เท่านั้น! รายได้ > 30,000 บาท</li>
+      <li>พนักงานประจำ รายได้ > 30,000 บาท เท่านั้น!</li>
       </ul>
     </p>
     <div class="benefit-grid">
       <div class="benefit-item">
-        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
+        <div class="benefit-label">อัตราดอกเบี้ย</div>
+        <div class="benefit-label">คงที่ 3 ปีแรก</div>
         <div class="benefit-value">3.29% - 3.79% ต่อปี</div>
       </div>
       <div class="benefit-item">
@@ -284,7 +286,8 @@
     </p>
     <div class="benefit-grid">
       <div class="benefit-item">
-        <div class="benefit-label">อัตราดอกเบี้ยคงที่ 3 ปีแรก</div>
+        <div class="benefit-label">อัตราดอกเบี้ย</div>
+        <div class="benefit-label">คงที่ 3 ปีแรก</div>
         <div class="benefit-value">4.79% - 5.59% ต่อปี</div>
       </div>
       <div class="benefit-item">
