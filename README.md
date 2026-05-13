@@ -264,7 +264,8 @@
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ย</div>
-        <div class="benefit-value">คงที่ 3 ปีแรก<br>3.29% - 3.79% ต่อปี</div>
+        <div class="benefit-value">คงที่ 3 ปีแรก</div>
+        <div class="benefit-value">3.29% - 3.79% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
@@ -286,7 +287,8 @@
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ย</div>
-        <div class="benefit-value">คงที่ 3 ปีแรก<br>4.79% - 5.59% ต่อปี</div>
+        <div class="benefit-value">คงที่ 3 ปีแรก</div>
+        <div class="benefit-value">4.79% - 5.59% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
