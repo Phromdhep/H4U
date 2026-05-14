@@ -124,7 +124,6 @@
 
     .benefit-label {
       font-size: 0.8rem;
-      padding: 20px;
       color: #666;
     }
 
